@@ -6,12 +6,12 @@ The project focuses on employee demographics, department distribution, attrition
 I used Microsoft Excel to organize the data, perform the analysis, answer business questions, and build an interactive HR dashboard.
 -----
 ## Tools Used
-Microsoft Excel
-PivotTables
-PivotCharts
-Excel formulas
-Data analysis and visualization
-Interactive dashboard filtering
+Microsoft Excel|
+PivotTables|
+PivotCharts|
+Excel formulas|
+Data analysis and visualization|
+Interactive dashboard filtering|
 ---
 ## Project Files
 HR_Employee_Attrition_Raw.csv
